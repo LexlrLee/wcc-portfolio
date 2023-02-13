@@ -136,7 +136,7 @@ footer{
     align-items: center;
     text-align: center;
     text-decoration: none;
-    color:#4f4f4f;s
+    color:#4f4f4f;
     transition: all 0.5s;
 } 
 
@@ -173,8 +173,8 @@ footer{
     align-items: center;
     text-align: center;
     text-decoration: none;
-    color:#4f4f4f;s
-    transition: all 0.2s; 
+    color:#4f4f4f;
+    transition: all  0.2s;
 } 
 
 .flex-Pic a:hover{
